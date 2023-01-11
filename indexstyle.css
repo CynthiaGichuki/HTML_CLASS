@@ -84,7 +84,7 @@ footer>a{
     color: #818181;
     display: block;
   }
-  a:hover {
+  .sidebar a:hover {
     background-color: #66BFBF;
   }
 
