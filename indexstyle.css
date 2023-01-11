@@ -101,4 +101,20 @@ footer>a{
     background-color: #66BFBF;
   }
 
+  img{
+    width: 40%;
+    height: 40%;
+    margin: 30px;
+}
+h1{
+    color: red;
+    font: 100;
+    text-align: center;
+    align-content: center;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
 
