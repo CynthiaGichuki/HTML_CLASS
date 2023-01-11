@@ -3,6 +3,18 @@
 	margin: 0px;
 	box-sizing: border-box;
 }
+ main-content .h1{
+    color: red;
+    font: 100;
+    text-align: center;
+    align-content: center;
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+}
+
 
 nav{
     text-align: right;
@@ -87,4 +99,5 @@ footer>a{
   a:hover {
     background-color: #66BFBF;
   }
+
 
