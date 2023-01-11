@@ -22,8 +22,8 @@ li{
     
 }
 .sidebar{
-    height: 50%;
-    width: 100px;
+    height: 100%;
+    width: 160px;
     position: fixed;
     z-index: 1;
     top: 0;
@@ -41,7 +41,7 @@ li{
     display: block;
   }
   a:hover {
-    background-color: #66BFBF;
+    background-color: #15acac;
   }
     
     
