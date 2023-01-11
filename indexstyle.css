@@ -8,7 +8,19 @@
     font: 100;
     text-align: center;
     align-content: center;
+<<<<<<< Updated upstream
 }
+=======
+ }
+
+ .main-container{
+    display: flex;
+    justify-content: center;
+ }
+
+ 
+
+>>>>>>> Stashed changes
 p{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: larger;
@@ -104,9 +116,9 @@ main{
   }
 
   img{
-    width: 40%;
+    width: 48%;
     height: 40%;
-    margin: 30px;
+    margin: 10px;
 }
 h1{
     color: red;
@@ -118,5 +130,24 @@ p{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: larger;
 }
+.container1 img{
+    height: 60%;
+    width: 95%;
+    display: flex;
+    align-content: space-between;
+    align-items: center;
+
+}
+.container1{
+    box-shadow: 5px 10px red;
+    width: 50vw;
+    height: 50vh;
+    background-color: beige;
+    margin: 10px;
+    float :left;
+
+   
+}
+
 
 
