@@ -4,9 +4,12 @@ img{
     margin: 30px;
 }
 h1{
-    display: flex;
     color: red;
     font: 100;
     text-align: center;
     align-content: center;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
 }
