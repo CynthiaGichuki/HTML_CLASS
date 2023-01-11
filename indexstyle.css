@@ -76,16 +76,20 @@ footer>a{
     text-decoration: none;
 }
 
+main{
+    display: flex;
+    justify-content: space-around;
+}
+
 .sidebar{
-    height: 50%;
-    width: 100px;
-    position: fixed;
-    z-index: 1;
+    min-height:100vh;
+    width: 100%;
     top: 0;
     left: 0;
-    background-color: #111;
+    background-color: black;
     overflow-x: hidden;
     padding-top: 20px;
+    margin-right: 5%;
   }
   
   .sidebar a {
