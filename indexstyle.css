@@ -79,13 +79,12 @@ footer>a{
 .sidebar{
     height: 50%;
     width: 100px;
-    position: fixed;
-    z-index: 1;
     top: 0;
     left: 0;
-    background-color: #111;
+    background-color: black;
     overflow-x: hidden;
     padding-top: 20px;
+    margin-right: 15%;
   }
   
   .sidebar a {
